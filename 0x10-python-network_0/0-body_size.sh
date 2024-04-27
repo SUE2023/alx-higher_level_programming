@@ -1,3 +1,3 @@
 #!/bin/bash
-# Send GET request with curl and store displays the body of the response
-curl -s "$URL" | wc -c
+curl -sI "$1" | grep -i Content-Length | awk '{print $2}'
+
