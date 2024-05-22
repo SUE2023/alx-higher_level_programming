@@ -1,7 +1,10 @@
 PROJECT'S INSTRUCTIONS
 0x14. JavaScript - Web scraping
-________________________________
 Scripting, API, JavaScript
+++++++++++++++++++++++++++++ 
+N/B worked for silchip: ./5-request_storeP.js https://silchip.co.ke//api Silchip
+N/B did not work for silchip : ./5-request_store.js https://silchip.co.ke//api Silchip  
+#CODE 5-request_storeP.js  and 5-request_store.js  are different
  Weight: 1
  Project will start May 22, 2024 6:00 AM, must end by May 23, 2024 6:00 AM
  Checker will be released at May 22, 2024 12:00 PM
